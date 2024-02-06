@@ -32,11 +32,12 @@ body.nobackground::-webkit-scrollbar{
 
 div{
     background-image: url("pacote-d013/imagens/frame-iphone.png");
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     height: 620px;
     width: 311px;
-    position: absolute;
+    position: relative;
 
     left: 50%;
     top: 50%;
