@@ -3,7 +3,7 @@
 *{
     margin: 0%;
     padding: 0%;
-      
+    
 }
 
 main{
@@ -37,7 +37,7 @@ div{
     background-repeat: no-repeat;
     height: 620px;
     width: 311px;
-    position: relative;
+    position:absolute;
 
     left: 50%;
     top: 50%;
